@@ -1,4 +1,4 @@
-colbydyess.github.io
+Colby Dyess
 ====================
 
-Colby Dyess - Proof that I shouldn't write code
+Proof that I shouldn't write code
